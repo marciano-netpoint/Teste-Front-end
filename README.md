@@ -23,6 +23,7 @@ Note que foram criados todos os cenários possíveis para essa aplicação, mas 
 
 ## Coisas que você precisa saber
 Você deve utilizar esse código, ~que tá uma beleza~, para iniciar o seu teste, mas fique livre para copiar o conteúdo para outro sandbox.
+
 Atualmente a empresa não trabalha com Single Page Applications (SPA) 🤔.
 
 > 📙 Vamos avaliar seu JavaScript, HTML e CSS independentemente das bibliotecas que você utilizar.
